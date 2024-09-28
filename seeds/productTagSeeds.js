@@ -39,14 +39,14 @@ const productTagData = [
   },
   {
     product_id: 5,
-    tag_id: 9,
+    tag_id: 8,
   },
   {
-    product_id: 6,
+    product_id: 5,
     tag_id: 2,
   },
   {
-    product_id: 6,
+    product_id: 5,
     tag_id: 4,
   },
 ];
